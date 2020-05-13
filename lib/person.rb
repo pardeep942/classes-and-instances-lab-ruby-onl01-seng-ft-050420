@@ -1,5 +1,4 @@
 class person
 end
- = Dog.new
-snoopy = Dog.new
-lassie = Dog.new
+adele_goldberg = person.new
+alan_kay = person.new
